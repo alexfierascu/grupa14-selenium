@@ -65,7 +65,7 @@ public class DePurtatTest {
     inputFieldPassword.click();
     inputFieldPassword.sendKeys("Cemaifacetidragilor?");
 
-
+    //apas butonul de continua pe pagina
     buttonContinue.click();
 
     String actualTitle = "dEpurtat - Vizualizare cont";
