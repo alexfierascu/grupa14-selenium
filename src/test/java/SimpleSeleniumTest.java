@@ -6,6 +6,7 @@ public class SimpleSeleniumTest {
   public static void main(String[] args) {
 
     //pt cei cu chrome - windows
+    //inca un comentariu
     System.setProperty("webdriver.chrome.driver", "src/test/resources/windows/chromedriver.exe");
 
     //pt cei cu chrome - mac
